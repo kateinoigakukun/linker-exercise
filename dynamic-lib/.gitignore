@@ -1,0 +1,4 @@
+*.dylib
+*.o
+/exec-dir*/*
+!.gitkeep
